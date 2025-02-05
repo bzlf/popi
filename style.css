@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ffedd5;
+    font-family: 'Indie Flower', cursive;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.sunflower {
+    width: 150px;
+    margin-bottom: 10px;
+}
+
+.Sunflower_love {
+    font-size: 25px;
+    color: #d97706;
+}
